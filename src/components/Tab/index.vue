@@ -1,6 +1,6 @@
 <template>
   <div class="tab">
-    <div class="setting">设置</div>
+    <div class="setting">我的</div>
     <div class="title">ONE MUSIC</div>
     <div class="search">搜索</div>
   </div>
@@ -8,9 +8,9 @@
 <script>
 export default {
   data() {
-    return {}
+    return {};
   },
-}
+};
 </script>
 <style lang="less" scoped>
 .tab {
